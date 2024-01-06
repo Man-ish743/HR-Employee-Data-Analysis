@@ -1,6 +1,6 @@
 # HR-Employee-Data-Analysis
 
 ## Objective
-This project aims to show the distribution of employees on the basis of their age, gender, work location, job titles and work tenure.
+This data analysis project aims to provide insights of a company over the distribution of employees on the basis of their age, gender, work location, job titles and work tenure. 
 ## Tools
 mysql powerbi 
