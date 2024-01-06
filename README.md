@@ -1,4 +1,5 @@
-# HR-Employee-Data-Analysis
+# HR-Dashboard
+![Screenshot_20240106_040355](https://github.com/Man-ish743/HR-Employee-Data-Analysis/assets/154724911/2a8ae268-2bb1-4aa5-af2b-c9d2d7bd06a3)
 
 
 ## Objective
