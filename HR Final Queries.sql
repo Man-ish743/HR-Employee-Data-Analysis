@@ -1,4 +1,4 @@
-```create database projects;
+create database projects;
 
 use projects;
 
@@ -218,4 +218,4 @@ ORDER BY year ASC;
 SELECT department,ROUND(AVG(DATEDIFF(termdate,hire_date)/365),0) AS avg_tenure
 FROM hr
 WHERE age>=18 AND termdate<>'0000-00-00' AND termdate<=CURDATE()
-GROUP BY department;```
+GROUP BY department;
