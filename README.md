@@ -8,8 +8,8 @@ This data analysis project aims to provide insights of a company over the distri
 
 ## Tools
 
-- MySQL Workbench - Data Cleaning & Analysis
-- Power BI - Data Visualization
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/>
   
 
 ## Data Used
